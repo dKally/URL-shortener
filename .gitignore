@@ -1,0 +1,50 @@
+# Visual Studio Code
+.vscode/
+
+# Build artifacts
+bin/
+obj/
+
+# Package restore
+*.csproj.nuget.dgspec.json
+*.nuget.g.props
+*.nuget.g.targets
+*.vsix
+.vs/
+.DS_Store 
+
+# Local Database
+urls.db 
+urls.db-shm 
+urls.db-wal 
+
+# Editor-specific files
+*.user
+*.suo
+*.sln.docstates
+*.vssscc
+*.buildscc
+*.vspscc
+
+# Project-specific files
+*.log
+*.sqlite3
+*.db-journal
+*.bak
+*.exe
+*.dll
+*.pdb
+*.json.user
+
+# Rider
+.idea/
+
+# Dotnet tool files
+.config/dotnet-tools.json
+
+# Test results
+TestResults/
+
+# npm/node (if you add Node.js for frontend build later)
+node_modules/
+npm-debug.log

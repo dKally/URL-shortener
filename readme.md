@@ -68,7 +68,7 @@ This project was developed with a focus on understanding:
     dotnet run
 ```
 
-    The API will typically run on `http://localhost:5000` (HTTP) and `https://localhost:5001` (HTTPS). You can access the Swagger UI at `https://localhost:XXXX/swagger` (replace XXXX with your HTTPS port).
+The API will typically run on `http://localhost:5000` (HTTP) and `https://localhost:5001` (HTTPS). You can access the Swagger UI at `https://localhost:XXXX/swagger` (replace XXXX with your HTTPS port).
 
 ### Frontend (HTML/CSS/JS) Setup
 
